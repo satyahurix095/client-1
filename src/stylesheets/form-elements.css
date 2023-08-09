@@ -1,0 +1,12 @@
+input{
+    height:41px;
+    width: 100%;
+    border:grey 1px solid;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+input:focus{
+    outline: none;
+    border: rgb(50, 48, 48) solid 2px;
+}
